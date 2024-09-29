@@ -1,0 +1,49 @@
+.app-bar {
+    -fx-background-color: #00c3ff;
+}
+
+.title {
+    -fx-alignment: center;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-padding: 20px 60px;/*60 padding on the sides to not cover the return button*/
+}
+
+.item-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+}
+
+.item-info {
+    -fx-font-size: 14px;
+}
+
+.item-image {
+    -fx-fit-height: 100px;
+    -fx-fit-width: 100px;
+}
+
+.ListButtons {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.sidebar-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+
+.sidebar-button-text {
+    -fx-font-size: 14px;
+    -fx-text-fill: black;
+    -fx-padding: 5px;
+}
+
+.return-button {
+    -fx-background-color: transparent;
+}
+
+
+

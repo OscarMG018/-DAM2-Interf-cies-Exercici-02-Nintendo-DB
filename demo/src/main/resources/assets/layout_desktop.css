@@ -1,0 +1,37 @@
+.title {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-background-color: #00c3ff;
+    -fx-text-fill: black;
+    -fx-padding: 20px;
+}
+
+.item-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+}
+
+.item-info {
+    -fx-font-size: 14px;
+}
+
+.item-info-wrapper {
+    -fx-wrap-text: true;
+}
+
+.item-image {
+    -fx-fit-height: 200px;
+    -fx-fit-width: 200px;
+}
+
+.sidebar-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+
+.sidebar-button-text {
+    -fx-font-size: 14px;
+    -fx-text-fill: black;
+    -fx-padding: 5px;
+}
